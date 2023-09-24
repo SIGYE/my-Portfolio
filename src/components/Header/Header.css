@@ -44,7 +44,7 @@ header{
     overflow: hidden;
     padding: 1rem ;
 }
-img{
+.homePic{
     margin-right: 27px;
 }
 .scroll__down{
